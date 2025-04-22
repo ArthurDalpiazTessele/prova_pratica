@@ -6,7 +6,7 @@
 Um aplicativo Flutter simples e intuitivo para controle de despesas, com suporte a gráficos, persistência de dados com SharedPreferences e exportação de relatórios em PDF.
 
 
-#🚀 Funcionalidades:
+# 🚀 Funcionalidades:
 
 💸 Cadastro de despesas com descrição e valor 
 
@@ -21,14 +21,14 @@ Um aplicativo Flutter simples e intuitivo para controle de despesas, com suporte
 💾 Armazenamento local usando SharedPreferences
 
 
-#🛠️ Como Usar
+# 🛠️ Como Usar
 
 Instale as dependências: flutter pub get
 
 Execute o app: flutter run
 
 
-#📚 Passo a passo dentro do app 
+# 📚 Passo a passo dentro do app 
 
 ➕ Adicionar nova despesa:
 
@@ -39,7 +39,7 @@ Execute o app: flutter run
 - Toque em Salvar.
 
 
-#🗂️ Visualizar despesas
+# 🗂️ Visualizar despesas
 
 As despesas cadastradas aparecem em uma lista principal. 
 
@@ -50,7 +50,7 @@ Cada item mostra o nome e o valor gasto.
   - Toque no ícone de lixeira 🗑️ para excluir.
 
   
-#📊 Visualizar gráfico 
+# 📊 Visualizar gráfico 
 
 Toque no ícone de gráfico de pizza no topo da tela. 
 
@@ -62,7 +62,7 @@ Veja um gráfico com:
 
 Abaixo do gráfico, o total gasto é exibido.
 
-📤 Exportar para PDF 
+# 📤 Exportar para PDF 
 
 Toque no ícone de PDF no topo da tela. 
 
@@ -77,18 +77,18 @@ Você poderá visualizar, imprimir ou compartilhar o relatório.
 
 # Telas
 
-#Home
+# Home
 
 ![image](https://github.com/user-attachments/assets/6a58ed2e-3e6e-4cc1-86ef-cfd852afb25e)
 
-#Adionar Despesa
+# Adionar Despesa
 
 ![image](https://github.com/user-attachments/assets/e665b65a-b0b7-4478-a7df-a3099bbddab7)
 
-#Gráfico
+# Gráfico
 
 ![image](https://github.com/user-attachments/assets/8c241580-dd10-468e-a5cc-209140b24650)
 
-#PDF
+# PDF
 
 ![image](https://github.com/user-attachments/assets/10851449-b75a-46b7-924a-3a5f8703332b)
