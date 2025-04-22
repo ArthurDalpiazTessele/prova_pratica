@@ -1,16 +1,33 @@
 # prova_pratica
 
-A new Flutter project.
+📱 App de Controle de Gastos Pessoais Um aplicativo Flutter simples e intuitivo para controle de despesas, com suporte a gráficos, persistência de dados com SharedPreferences e exportação de relatórios em PDF.
 
-## Getting Started
+Funcionalidades 
+💸 Cadastro de despesas com descrição e valor 
+📋 Listagem de todas as despesas salvas 
+📊 Visualização de gráfico de pizza com resumo dos gastos 
+🧮 Cálculo automático do total gasto 
+📁 Exportação das despesas em formato PDF 
+💾 Armazenamento local usando SharedPreferences
 
-This project is a starting point for a Flutter application.
+🛠️ Como Usar
 
-A few resources to get you started if this is your first Flutter project:
+Instale as dependências: flutter pub get
+Execute o app: flutter run
+📚 Passo a passo dentro do app ➕ Adicionar nova despesa:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Toque no botão + no canto inferior direito.
+Preencha a descrição e o valor da despesa.
+Toque em Salvar.
+🗂️ Visualizar despesas As despesas cadastradas aparecem em uma lista principal. Cada item mostra o nome e o valor gasto.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Toque no ícone de lápis ✏️ para editar.
+Toque no ícone de lixeira 🗑️ para excluir.
+📊 Visualizar gráfico Toque no ícone de gráfico de pizza no topo da tela. Veja um gráfico com:
+
+Cada fatia representando uma despesa.
+Descrição e valor em R$ dentro da fatia. Abaixo do gráfico, o total gasto é exibido.
+📤 Exportar para PDF Toque no ícone de PDF no topo da tela. Um arquivo PDF é gerado com:
+
+Tabela de despesas
+Total gasto Você poderá visualizar, imprimir ou compartilhar o relatório.
