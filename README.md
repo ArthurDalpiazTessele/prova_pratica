@@ -35,7 +35,7 @@ Execute o app: flutter run
 - Toque no botão + no canto inferior direito.
 
 - Preencha a descrição e o valor da despesa.
-- 
+  
 - Toque em Salvar.
 
 
